@@ -1,1 +1,5 @@
-alert("Change !!");
+<<<<<<< HEAD
+alert("Modify by turtorial2");
+=======
+alert("Modify By Me");
+>>>>>>> acf6b8385d113c20c9b2e33631e78c1cb3282625
